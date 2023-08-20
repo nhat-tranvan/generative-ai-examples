@@ -5,7 +5,7 @@ This repository contains code examples for SageMaker Jumpstart Generative AI, a 
 ## Module 1: Legal Document Summarization and Question Answering
 
 <div align="center">
-    <img src="assets/lab1_architecture.png" alt="RAG Architecture" width="400" style="display:inline-block">
+    <img src="assets/lab1_architecture.png" alt="RAG Architecture" width="600" style="display:inline-block">
 </div>
 
 In this module, you will learn how to perform short and long-form abstractive text summarization and question answering for legal documents. This module demonstrates a streamlined pipeline that combines three NLP tasks - abstractive text summarization, question generation, and answer generation via abstractive question answering. All of these tasks are accomplished using a single foundation model in a zero-shot setting with prompt engineering.

@@ -45,7 +45,7 @@ curl --location '<QnAFunctionURL>?q=How%20to%20scale%20down%20SageMaker%20Asynch
 --header <AWS Signature Auth>
 ```
 
-![API Output](assets/inferent_output.png)
+![API Output](assets/api_output.png)
 
 
 ---

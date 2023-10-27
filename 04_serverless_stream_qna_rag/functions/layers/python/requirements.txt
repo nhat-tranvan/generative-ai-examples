@@ -1,0 +1,4 @@
+opensearch-py==2.3.0
+langchain==0.0.263
+requests-aws4auth==1.2.3
+tiktoken==0.4.0

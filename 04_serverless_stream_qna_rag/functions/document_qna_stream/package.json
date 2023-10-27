@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@aws-sdk/client-sagemaker-runtime": "^3.395.0",
+    "@opensearch-project/opensearch": "^2.3.1"
+  },
+  "type": "module"
+}
